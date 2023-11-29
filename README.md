@@ -1,4 +1,4 @@
-# DefaultAllowCorsPolicy NuGet Package
+# ![cors](https://github.com/mfurkanayhan/DefaultAllowCorsPolicyNugetPackage/assets/75537063/1649bf54-7721-4040-9c18-62719c7b0554) DefaultAllowCorsPolicy NuGet Package
 
 This NuGet package facilitates adding a default Cross-Origin Resource Sharing (CORS) policy to your ASP.NET Core projects.
 
