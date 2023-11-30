@@ -7,15 +7,17 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageId>DefaultAllowCorsPolicy</PackageId>
     <Title>Default Allow Cors Policy</Title>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>M. Furkan Ayhan</Authors>
     <Company>M. Furkan Ayhan</Company>
     <Product>DefaultAllowCorsPolicy</Product>
     <Description>This package configures CORS to allow all incoming request</Description>
     <PackageIcon>cors.jpg</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <AssemblyVersion>1.0.0</AssemblyVersion>
-    <FileVersion>1.0.0</FileVersion>
+    <AssemblyVersion>1.0.1</AssemblyVersion>
+    <FileVersion>1.0.1</FileVersion>
+    <RepositoryUrl>https://github.com/mfurkanayhan/DefaultAllowCorsPolicyNugetPackage</RepositoryUrl>
+    <RepositoryType>https://github.com/mfurkanayhan/DefaultAllowCorsPolicyNugetPackage.git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
